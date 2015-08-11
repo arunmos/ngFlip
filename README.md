@@ -1,2 +1,2 @@
 # ngFlip
-Angular directive for card flip animation
+Angular directive for card flip animation.
